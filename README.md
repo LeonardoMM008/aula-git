@@ -1,3 +1,4 @@
+
 #  Leonardo
 
 ---
@@ -12,7 +13,15 @@ RG:XXXXXXXXXXXXXXXXX
 
 EMAIL: XXXXXXXXXXXXXXXXXXXX
 
-CELULAR: 9999999999
+
+CELULAR: 999999999
+
+---
+
+### Experiencia
+
+- Aluno Unimar
+- Aquaponia
 
 
 ---
