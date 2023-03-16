@@ -21,7 +21,8 @@ CELULAR: 999999999
 ### Experiencia
 
 - Aluno Unimar
-- Aquaponia
+- Plaqueiro
+- Cachorro Loko
 
 
 ---
